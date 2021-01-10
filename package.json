@@ -1,0 +1,22 @@
+{
+  "name": "funeschool-ar",
+  "version": "1.0.0",
+  "description": "This is the place where my all ar model lives for FuneSchool educational platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touhidulShawan/funeschool-ar.git"
+  },
+  "keywords": [
+    "AR"
+  ],
+  "author": "Touhidul Shawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/touhidulShawan/funeschool-ar/issues"
+  },
+  "homepage": "https://github.com/touhidulShawan/funeschool-ar#readme"
+}
