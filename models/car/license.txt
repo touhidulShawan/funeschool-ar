@@ -1,0 +1,11 @@
+Model Information:
+* title:	M12S Warthog
+* source:	https://sketchfab.com/3d-models/m12s-warthog-1366fe293cf54f7ca58fa26267069cfb
+* author:	Garage B Productions (https://sketchfab.com/garage.b.productions)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "M12S Warthog" (https://sketchfab.com/3d-models/m12s-warthog-1366fe293cf54f7ca58fa26267069cfb) by Garage B Productions (https://sketchfab.com/garage.b.productions) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
